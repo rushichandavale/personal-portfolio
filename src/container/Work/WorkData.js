@@ -1,6 +1,14 @@
 import { images } from "../../constants";
 const works = [
    {
+      title: " JavaScript Projects",
+      description: "A simple Projects made using HTML CSS & JavaScript",
+      codeLink:"https://github.com/rushichandavale/js-projects",
+      projectLink: "https://rushichandavale.github.io/js-projects/",
+      imageUrl: images.jsProjects,
+      
+   },
+   {
       title: " Snake Game",
       description: "A simple Snake game using HTML CSS & JavaScript",
       codeLink:"https://github.com/rushichandavale/snake-game",

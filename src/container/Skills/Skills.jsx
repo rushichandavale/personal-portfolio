@@ -16,11 +16,11 @@ const Skills = () => {
       icon: images.css,
       bgColor: "#edf2f8",
     },
-    {
-      name: "Sass",
-      icon: images.sass,
-      bgColor: "#edf2f8",
-    },
+    // {
+    //   name: "Sass",
+    //   icon: images.sass,
+    //   bgColor: "#edf2f8",
+    // },
     {
       name: "Tailwind CSS",
       icon: images.tailwind,
@@ -63,11 +63,11 @@ const Skills = () => {
       bgColor: "#edf2f8",
     },
     
-    {
-      name: "Firebase",
-      icon: images.firebase,
-      bgColor: "#edf2f8",
-    },
+    // {
+    //   name: "Firebase",
+    //   icon: images.firebase,
+    //   bgColor: "#edf2f8",
+    // },
   ];
   return (
     <>
